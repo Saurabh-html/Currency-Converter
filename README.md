@@ -10,7 +10,7 @@ This project is a simple Currency Converter Web Application that allow users to 
 - Responsive and user-friendly design
 
   ## 📸 Preview
-  ![App Preview](Default_Page.png)
+  ![App Preview](default.png)
 
   ![App Preview](Conversion.png)
 
